@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="relative z-20 text-white">
+    <footer className="relative z-10 text-white">
       {/* Top Divider */}
       <div className="max-w-[1500px] m-auto h-[1px] bg-white/10"></div>
 

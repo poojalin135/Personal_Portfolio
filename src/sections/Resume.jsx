@@ -51,7 +51,7 @@ const Resume = () => {
   return (
     <section
       ref={resumeRef}
-      className="relative z-20 overflow-hidden py-16 lg:py-24"
+      className="relative z-10 overflow-hidden py-16 lg:py-24"
     >
       {/* Background Glow */}
       <div className="absolute inset-0 -z-10">
